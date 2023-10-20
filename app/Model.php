@@ -1,9 +1,9 @@
 <?php
 abstract class Model{
     // Informations de la base de données
-    private static $host = "localhost";
-    private static $db_name = "gestion_films";
-    private static $username = "root";
+    private static $host = "";
+    private static $db_name = "";
+    private static $username = "";
     private static $password = "";
 
     /**
